@@ -1,22 +1,20 @@
 
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=BEE4F4&height=200&width=350&section=header&text=Hi,%20I'm%20Sehee👀&fontSize=55&animation=fadeIn&fontAlignY=40&desc=I'm%20interested%20in%20User%20Experiences&descAlignY=60&descAlign=55&font=Freesentation-9Black"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=BEE4F4&height=200&width=350&section=header&text=Hi,%20I'm%20Sehee👋&fontSize=55&animation=fadeIn&fontAlignY=40&desc=build%20with%20data&descAlignY=60&descAlign=55&font=Freesentation-9Black"/>
 </p>
+
 
 ## 😄 About me
 
-- 🌱  **Tistory** <br>
-      https://seheehee.tistory.com/
+데이터를 기반으로 문제를 정의하고, 구조화하여 실제 서비스로 구현하는 데 강점을 가지고 있습니다.  
+키워드 기반 리뷰 요약 프로젝트에서는 데이터 필터링 로직·Streamlit UI 구현·Edge Case 관리를 리드하며 서비스 구현을 총괄했습니다.  
+데이터가 ‘사용자 경험을 개선하는 제품’으로 이어지는 과정을 만드는 사람이 되고 싶습니다.
+
+## 📫 Contact
+
+- **E-mail**  
+  2_sehee@naver.com
   
-- 💬  **LinkedIn** <br>
-      https://www.linkedin.com/in/sehee-leee/
-
-- 📫   **E-mail**  <br>
-        2_sehee@naver.com
-
-- 🤖  **Resume & Portfolio**  <br>
-      _Please contact me..._
-
 ## 🛠 Tech Stack
 
 ### Languages
